@@ -1,1 +1,2 @@
 # IMPLEMENTATION OF SECURE EMAIL SYSTEM USING PGP AND GPG ENCRYPTION AND DEVELOPMENT OF SCRIPT
+The main objective was to explore the security of email system, Identification of the security issues related to common email systems, Implementation of secure email system using PGP and and GPG encryption and developing an python script to send encrypted emails over network, using packages/libraries : smtplib, email, ssl, MIME, getpass.
